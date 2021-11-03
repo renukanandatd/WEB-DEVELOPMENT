@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(136, 241, 233);
+}
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: gainsboro;
+  width: 5%;
+}
+h1 {
+  color: rgb(18, 144, 194);
+}
+h2 {
+  color: rgb(18, 144, 194);
+}
+h3 {
+  color: rgb(18, 144, 194);
+}
